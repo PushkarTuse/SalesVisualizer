@@ -19,7 +19,7 @@ To get started with the Sales Visualizer, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/power-bi-sales-visualizer.git
+   [git clone https://github.com/your-username/power-bi-sales-visualizer.git](https://github.com/PushkarTuse/SalesVisualizer.git)
    ```
 
 2. **Open Power BI File:**
